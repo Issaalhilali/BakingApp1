@@ -73,3 +73,8 @@ Application has a companion homescreen widget.
 Widget displays ingredient list for desired recipe.
 
 Widget displays ingredient list for desired recipe.
+
+
+![bakibng 1](https://user-images.githubusercontent.com/37781969/56862656-d4b2de80-69b5-11e9-8f99-f97df0794aa8.png)
+![bakibng 2](https://user-images.githubusercontent.com/37781969/56862658-d67ca200-69b5-11e9-8292-bc3eee289b1e.png)
+
